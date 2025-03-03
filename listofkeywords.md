@@ -1,3 +1,6 @@
+
+#Keywords are reserved words in Python that have special meanings and cannot be used as variable names.
+
 Here are some important Python keywords:
 
 and: It is a logical operator that returns True if both operands are true.
