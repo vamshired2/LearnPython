@@ -14,6 +14,10 @@ str1=" Hello "
 print(str1.lstrip())
 print(str1.rstrip())
 
+str_len="Hello"
+length=len(str_len)
+print(length)
+
 #split( real time scenario)
 arn="arn:aws:iam::123456789012:user/johndoe"
 print(arn.split(":") [4])
